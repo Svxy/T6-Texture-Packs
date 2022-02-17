@@ -1,7 +1,7 @@
 # INSTRUCTIONS:
 ## INSTALLING SCRIPTS & TEXTURES
 
-### First of all, obviously since this is a huge project you're going to have to download the files [here]()
+### First of all, obviously since this is a huge project you're going to have to download the files [here](https://mega.nz/folder/U2gmGDRC#WJMl3A4yyV_y_s9o5521Gw)
 
 1. Head over to your Plutonium folder in AppData
 	If you are not sure how to get over to Plutonium folder
@@ -33,7 +33,7 @@
 	
 	You should now be ready to play the mod.
 
-## I hope that you guys enjoy the mod.
+### I hope that you guys enjoy the mod.
 ### The mod heavily depends on having all the files loaded correctly.
 
 # FEATURES
