@@ -1,7 +1,7 @@
 # INSTRUCTIONS:
 ## INSTALLING SCRIPTS & TEXTURES
 
-### First of all, obviously since this is a huge project you're going to have to download the files [here](https://mega.nz/folder/U2gmGDRC#WJMl3A4yyV_y_s9o5521Gw)
+### First of all, obviously since this is a huge project you're going to have to download the files [here](https://www.mediafire.com/file/b94o4ab3d76i6vo/Nuketown_Reimagined_City_Of_Mars_Mod.zip/file)
 
 1. Head over to your Plutonium folder in AppData
 	If you are not sure how to get over to Plutonium folder
